@@ -1,5 +1,10 @@
 # Online Resume
 
+# Here is the Flow to Update This Site Below in the Terminal:
+# git add .
+# git commit -m'some text'
+# git push origin master
+
 # background
 background, skills, history, projects
 
